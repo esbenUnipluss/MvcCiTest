@@ -171,6 +171,5 @@ D:\git\MvcCiTest\MvcApplication\MvcApplication\bin\ko\System.Spatial.resources.d
 D:\git\MvcCiTest\MvcApplication\MvcApplication\bin\ru\System.Spatial.resources.dll
 D:\git\MvcCiTest\MvcApplication\MvcApplication\bin\zh-Hans\System.Spatial.resources.dll
 D:\git\MvcCiTest\MvcApplication\MvcApplication\bin\zh-Hant\System.Spatial.resources.dll
-D:\git\MvcCiTest\MvcApplication\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
 D:\git\MvcCiTest\MvcApplication\MvcApplication\obj\Debug\MvcApplication.dll
 D:\git\MvcCiTest\MvcApplication\MvcApplication\obj\Debug\MvcApplication.pdb
