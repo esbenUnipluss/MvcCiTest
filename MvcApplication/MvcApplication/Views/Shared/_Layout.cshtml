@@ -9,16 +9,17 @@
     @Scripts.Render("~/bundles/modernizr")
     @Styles.Render("~/Content/themes/base/css")
 </head>
-<body>
-    <div id="userSettings">
+    <body>
+        <div>Hei</div>
+@*         <div id="userSettings">
         @Html.Partial("_UserSettings")
-    </div>
+    </div>*@
 
     <div id="body">
         @RenderBody()
     </div>
 
-    <footer>
+@*    <footer>
         <nav>
             <ul id="menu">
                 <li>@Html.ActionLink("Todo List", "Index", "Home", new { area = "" }, null)</li>
@@ -32,6 +33,6 @@
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/jqueryui")
     @Scripts.Render("~/bundles/ajaxlogin")
-    @RenderSection("scripts", required: false)
-</body>
+    @RenderSection("scripts", required: false)*@
+    </body>
 </html>
