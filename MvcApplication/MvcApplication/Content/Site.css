@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: black;
     color: #333;
     max-width: 980px; /*Remove this to make it full screen*/
     margin: 1em auto;
